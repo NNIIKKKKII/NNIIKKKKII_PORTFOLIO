@@ -12,8 +12,8 @@ export const flagshipProjects = [
         description: "Minimalist React portfolio.",
         image: "/assets/portfolio.png",
         tech: ["React", "TailwindCSS", "Javascript"],
-        github: "#",
-        live: "#",
+        github: "https://github.com/NNIIKKKKII/NNIIKKKKII_PORTFOLIO",
+        live: "",
     },
 ];
 

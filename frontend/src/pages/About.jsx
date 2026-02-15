@@ -1,5 +1,5 @@
 import React from 'react'
-import webImage from "../../public/assets/ME_4.jpeg"
+import webImage from "/assets/ME_4.jpeg"
 import Header from '../components/Header'
 const About = () => {
   return (
