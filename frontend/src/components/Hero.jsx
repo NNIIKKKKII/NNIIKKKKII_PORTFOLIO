@@ -13,21 +13,21 @@ const Hero = () => {
             </div>
             <div className="flex flex-col gap-3  items-center">
 
-                <p className="font-bold text-2xl text-gray-500">Hello, I'm</p>
-                <h1 className="font-bold text-4xl text-black">NIKHIL PAREESHWAD</h1>
-                <h2 className="font-bold text-3xl text-gray-500">MERN Stack Developer</h2>
+                <p className="font-bold text-2xl text-gray-500 text-center">Hello, I'm</p>
+                <h1 className="font-bold text-4xl text-black text-center">NIKHIL PAREESHWAD</h1>
+                <h2 className="font-bold text-3xl text-gray-500 text-center">MERN Stack Developer</h2>
                 <div className="flex gap-5">
 
-                    <a href="/assets/resume.pdf" download="Nikhil_Pareeshwad_Resume.pdf" className="p-3 border border-black rounded-3xl text-black hover:bg-black hover:text-white transition-colors">
+                    <a href="/assets/resume.pdf" download="Nikhil_Pareeshwad_Resume.pdf" className="text-center p-3 border border-black rounded-3xl text-black hover:bg-black hover:text-white transition-colors">
                         Download Resume
                     </a>
-                    <a href="#contact" className="p-3 border border-black rounded-3xl text-black hover:bg-black hover:text-white transition-colors">
+                    <a href="#contact" className="text-center p-3 border border-black rounded-3xl text-black hover:bg-black hover:text-white transition-colors">
                         Contact info
                     </a>
                 </div>
 
                 <div className="flex gap-5">
-                    <a href="https://www.linkedin.com/in/nikhil-pareeshwad/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors">
+                    <a href="https://www.linkedin.com/in/nikhilpareeshwad" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors">
                         <FaLinkedin size={30} className="w-10 h-10 text-black " />
                     </a>
                     <a href="https://github.com/NNIIKKKKII" target="_blank" rel="noopener noreferrer" className="hover:text-gray-800 transition-colors">

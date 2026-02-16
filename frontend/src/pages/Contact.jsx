@@ -33,7 +33,7 @@ const Contact = () => {
 
         {/* LinkedIn */}
         <a
-          href="https://www.linkedin.com/in/nikhil-pareeshwad/"
+          href="https://www.linkedin.com/in/nikhilpareeshwad"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-3 

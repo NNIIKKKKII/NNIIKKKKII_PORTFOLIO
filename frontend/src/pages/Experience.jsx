@@ -17,7 +17,7 @@ const Experience = () => {
           <h2 className='font-bold text-3xl text-center'>Frontend Skills</h2>
 
 
-          <div className="grid grid-cols-2 gap-8 w-full justify-items-center">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 w-full justify-items-center">
             <Skills name="HTML" level="Advanced" />
             <Skills name="TailwindCSS" level="Advanced" />
             <Skills name="Javascript" level="Intermediate" />
@@ -35,7 +35,7 @@ const Experience = () => {
           <h2 className='font-bold text-3xl text-center'>Backend Skills</h2>
 
 
-          <div className="grid grid-cols-2 gap-6 w-full justify-items-center">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 w-full justify-items-center">
             <Skills name="Node.js" level="Advanced" />
             <Skills name="Express.js" level="advanced" />
             <Skills name="PostgreSQL" level="Intermediate" />
